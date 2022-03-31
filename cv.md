@@ -26,3 +26,8 @@ Belarusian State University of Informatics and Radioelectronics.
 Third Course.
 
 ***
+## Language:
+* English A1
+* Turkish B1
+* Russian B1
+***
