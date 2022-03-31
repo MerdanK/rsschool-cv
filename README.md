@@ -1,2 +1,2 @@
 # rsschool-cv
-https://merdank.github.io/rsschool-cv/cv
+https://merdank.github.io/rsschool-cv/
